@@ -1,0 +1,8 @@
+{
+  "development": {
+    "database": "test-sequelize",
+    "host": "127.0.0.1",
+    "dialect": "sqlite",
+    "storage": "./db.sqlite3"
+  }
+}
